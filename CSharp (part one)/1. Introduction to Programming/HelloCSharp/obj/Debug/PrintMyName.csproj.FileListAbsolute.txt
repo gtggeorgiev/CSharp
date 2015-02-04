@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+c:\users\user\documents\visual studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\user\Desktop\CSharp\3.Въведение в програмирането\Homework\HelloCSharp\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache

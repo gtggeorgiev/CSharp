@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

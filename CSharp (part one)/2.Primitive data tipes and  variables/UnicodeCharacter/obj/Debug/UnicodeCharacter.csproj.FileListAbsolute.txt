@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\obj\Debug\UnicodeCharacter.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

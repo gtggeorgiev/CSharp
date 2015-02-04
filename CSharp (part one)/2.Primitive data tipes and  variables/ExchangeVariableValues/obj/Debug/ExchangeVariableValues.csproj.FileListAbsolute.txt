@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.csprojResolveAssemblyReference.cache
