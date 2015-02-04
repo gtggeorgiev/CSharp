@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

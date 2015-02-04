@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\EmployeeData\obj\Debug\EmployeeData.pdb

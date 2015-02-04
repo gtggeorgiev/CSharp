@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\BooleanVariable\bin\Debug\BooleanVariable.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\BooleanVariable\bin\Debug\BooleanVariable.pdb
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\BooleanVariable\obj\Debug\BooleanVariable.exe
+C:\Users\user\Desktop\Project C#\ConsoleApplication2\BooleanVariable\obj\Debug\BooleanVariable.pdb
